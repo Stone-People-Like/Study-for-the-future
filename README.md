@@ -27,6 +27,10 @@
   - [⚙️ 后端篇](#backend)
   - [🔧 工程化篇](#engineering)
   - [🚀 实战进阶篇](#advanced)
+- [📖 学习网站推荐](#recommendations)
+  - [Java 全栈体系](#java-full-stack)
+  - [后端面试体系](#backend-interview)
+  - [图解计算机基础](#computer-basics)
 - [🛠️ 技术栈](#tech-stack)
 - [💬 加入交流群](#community)
 - [🤝 贡献指南](#contributing)
@@ -132,6 +136,65 @@
 | 14 | 🏆 **全栈项目实战** | `前端 → 后端 → 数据库，完整落地` |
 | 15 | ☁️ **部署运维** | `Nginx` `HTTPS` `CI/CD` `云服务器` |
 
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+  <h2 id="recommendations"> 学习网站推荐</h2>
+  <p><em>先用系统化资料建立知识框架，再用项目和题目反复验证。</em></p>
+</div>
+
+<br/>
+
+<!-- ☕ Java 全栈体系 -->
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td align="center" style="padding: 8px 24px;">
+        <h3 id="java-full-stack">☕ Java 全栈体系</h3>
+        <hr/>
+        <p><b><a href="https://pdai.tech/">🔗 pdai.tech</a></b></p>
+        <p><sub>📚 Java 基础 · ⚙️ JVM · 🌱 Spring · 🗄️ 数据库 · 🔗 分布式 · 🐳 Docker · 🐧 Linux 与 DevOps</sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 📝 后端面试体系 -->
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td align="center" style="padding: 8px 24px;">
+        <h3 id="backend-interview">📝 后端面试体系</h3>
+        <hr/>
+        <p><b><a href="https://javaguide.cn/">🔗 JavaGuide</a></b></p>
+        <p><sub>☕ Java · 📦 集合 · 🔄 并发 · ⚙️ JVM · 🗄️ MySQL · ⚡ Redis · 🌐 分布式 · 🏗️ 系统设计</sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- 🖥️ 图解计算机基础 -->
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td align="center" style="padding: 8px 24px;">
+        <h3 id="computer-basics">🖥️ 图解计算机基础</h3>
+        <hr/>
+        <p><b><a href="https://www.xiaolincoding.com/">🔗 小林 coding</a></b></p>
+        <p><sub>🌐 图解网络 · 💻 操作系统 · 🗄️ MySQL · ⚡ Redis · 🎯 后端高频面试题</sub></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
