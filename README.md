@@ -119,6 +119,41 @@
 <br/>
 
 <div align="center">
+  <h2> 学习网站推荐</h2>
+  <p><em>先用系统化资料建立知识框架，再用项目和题目反复验证。</em></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h3>Java 全栈体系</h3>
+        <hr/>
+        <p><b><a href="https://pdai.tech/">pdai.tech</a></b></p>
+        <p><sub>Java 基础、JVM、Spring、数据库、分布式、Docker、Linux 与 DevOps</sub></p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>后端面试体系</h3>
+        <hr/>
+        <p><b><a href="https://javaguide.cn/">JavaGuide</a></b></p>
+        <p><sub>Java、集合、并发、JVM、MySQL、Redis、分布式和系统设计</sub></p>
+      </td>
+      <td width="34%" valign="top">
+        <h3>图解计算机基础</h3>
+        <hr/>
+        <p><b><a href="https://www.xiaolincoding.com/">小林 coding</a></b></p>
+        <p><sub>图解网络、操作系统、MySQL、Redis 和后端高频面试题</sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
   <h2> 技术栈</h2>
   <br/>
   <p>
