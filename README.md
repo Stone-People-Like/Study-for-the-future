@@ -35,6 +35,7 @@
   - [工程化篇](#工程化篇)
   - [实战进阶篇](#实战进阶篇)
 - [技术栈](#技术栈)
+- [资料使用指南](#资料使用指南)
 - [加入交流群](#加入交流群)
 - [贡献指南](#贡献指南)
 
@@ -107,7 +108,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
 </p>
-
 **后端 & 语言**
 
 <p>
@@ -128,6 +128,18 @@
 </p>
 
 ---
+
+## 资料使用指南
+
+1. 下载AFFINE（[官网](https://affine.pro/)）
+2. 下载对应的版本
+3. 从历史版本里下载最新的资料
+4. 解压，得到`日期.affine`文件
+5. 打开AFFINE左下方导入功能，选择导入`.affine`文件
+
+------
+
+
 
 ##   加入交流群
 
